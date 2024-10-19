@@ -1,0 +1,5 @@
+{
+  "dotnet.defaultSolution": "LearningApp.sln",
+  "appService.defaultWebAppToDeploy": "/subscriptions/8b27c734-d5e9-448f-95d1-d75be71ddc04/resourceGroups/rg-apps/providers/Microsoft.Web/sites/learningapp-poli",
+  "appService.deploySubpath": "LearningApp\\bin\\Publish"
+}
